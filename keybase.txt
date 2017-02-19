@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/abrahamsalloum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://abrahamsalloum.com
+  * I am abrahamsalloum (https://keybase.io/abrahamsalloum) on keybase.
+  * I have a public key with fingerprint E5B6 D3DB 2457 2C31 EB39  9877 024B 182F C041 1FFA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014b4daa759dda54d29fe181db5f0d4e7b10368b34c7c0a9954f741628ea1242ce0a",
+            "fingerprint": "e5b6d3db24572c31eb399877024b182fc0411ffa",
+            "host": "keybase.io",
+            "key_id": "024b182fc0411ffa",
+            "kid": "01014b4daa759dda54d29fe181db5f0d4e7b10368b34c7c0a9954f741628ea1242ce0a",
+            "uid": "89ddbc1d9f2f3b8d01ef772a69016f19",
+            "username": "abrahamsalloum"
+        },
+        "service": {
+            "hostname": "abrahamsalloum.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487475701,
+    "expire_in": 157680000,
+    "prev": "5d41c467a725c2aa8214b66432fba9ceea1b70918240f866da0700d116c2393c",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSFRBGMd3sxKVoJvRXZiIRG2ZOWfOmXOWksAgooduLxXKNnNmjnty
+d8+6Z1eTtac0DKLoYkHQU0U3KYIwSelGiigWVJp0JywoiKgUiqSaY/VUj83LMPP9
+/7/5vj9zZ1pOID94+8K6psfHQxXB/lsnM4Et52aNZQFzeQMIZ0GNmNhEjAsvHalx
+OAgDiCDCDHNKiWZyTjXMFdMWyECcaTbkWBCGoKobTMUWsSA1TQ3bBCNdMQRFClYs
+ASkoA7aTqBapZMpJpCVWaEznKmcK1ohiqUgw1TQNQqCCGTIU24IYIdv2jVHX8x2y
+OUY9EXJceScPkV/t/a3/z31nJnCGZDALcdNWbJUZHCJhE6JQ3YRIt5HpCz2RStC4
+kGrKUjRK4x6NxdxMHOwqA7JW51jCj9ef55+6kOXGJSeZctOu5cZkPZpOJ72w7083
+JH1DvWCR36gIcxJcZioddSLlOW4ChJFUWmnHZyNsEEw0AlEZEDuTTkpEHF+hEd2A
+cvnviDqJ1DhGFtYJJYpmKZQaisxN17Gq2IyalpBhMAJNGTKGtqHrnEICIUdItxTV
+VC3gD1ebcEEYyzZptUR6TnWCpjMpAXbdvlk5ORDMD0ydMsn/a4H8vOl/fmCsKHe8
+YPONkejb98OXy65GMtnitQWduTtuPIidLXne2j3nKe9oOvFwdPmTvY31rXZb+dmt
+FR/K7fNdG5tPHz76uKlwxew95qecE9fib6pa87Scocixm8nGSwp43oZBk1Fx5mI/
+qAxpSzoHS/ePtN3zRvP29X0ZODClv29Jb3Ff7eu7B+YtKirk796dieBNRwcauooG
+h8anbvvofF09OnfsUc+a9uqvifOrVl6Zj4YPtYxMail6pTpV7RtWlTyrKZyxe3D9
+nusL9fqOg2sa3sw70n3xW3P25efR7uEFLS7J3v/eM7MnujR0aOaPZeH128vVzGK1
+eWB6cOml4K3SrteBU4dnRF/0bjB/Auc6R3U=
+=8PQC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abrahamsalloum
+
+==================================================================
